@@ -54,6 +54,7 @@ https://www.icom.co.jp/lineup/products/IC-705/?open=4#detail_content
 
 - 天板(スイッチプレートまたはマウントプレート)、配線基板、底板から成るサンドイッチマウント構造です。
 - 天板と底板は1mm厚の、配線基板は1.6mm厚のプリント基板(FR-4素材)で製造しています。
+- 天板と配線基板感は4mm, 配線基板と底板間は2mmです。通し穴はM2用です。
 - 配線基板上のキースイッチのフットプリントは、Cherry MX互換で3pin/5pin両対応です。
 - ソケットを使用していますが、キースイッチを配線基板にはんだ付けすることも可能です。振動などの環境や経年等に対する信頼性のためには、はんだ付けが有利です。
 
@@ -64,6 +65,7 @@ https://www.icom.co.jp/lineup/products/IC-705/?open=4#detail_content
 - [基板図 配線基板(1.6mm厚)はんだ面](pdf/BF-042_back.pdf)  
 - [基板図 天板(1mm厚)](pdf/BF-042A_front.pdf)  
 - [基板図 底板(1mm厚)](pdf/BF-042B_back.pdf)  
+- [添付説明書](pdf/BF-042_doc.pdf)
 
 ### 製造データ(Gerber)  
 KiCad 8.0.2でレイアウト設計し、プラグイン"Fabrication Toolkit"でJLCPCB向けに出力しています。
