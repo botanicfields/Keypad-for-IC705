@@ -5,39 +5,37 @@ External Keypad for ICOM IC-705
 
 # ICOM IC-705用外部キーパッド  
 
-ICOM社製アマチュア無線用トランシーバーIC-705に接続して使用する"External Keypad for IC-705"を作成しました。  
-IC-705の「取扱説明書 19.コネクター情報 ■KEYジャック」において、回路図とともに「お客様でご用意ください」と説明されている「外部キーパッド」に基づいています。
+ICOM社製アマチュア無線用トランシーバーIC-705に接続して使用する外部キーパッド"External Keypad for IC-705"を製作しました。IC-705の取扱説明書「19.コネクター情報 ■KEYジャック」において、回路図とともに「お客様でご用意ください」と説明されている「外部キーパッド」に基づいています。
+
+- IC-705の取扱説明書   
+[ICOM IC-705 サポート・ダウンロード](https://www.icom.co.jp/lineup/products/IC-705/?open=4#detail_content)  
 
 - 動作の様子(YouTube)  
-[External Keypad for ICOM IC-705](https://youtu.be/w8RicOxXwO8?si=ilTV2mg2VO1FOSIj
-)
-
-- IC-705の取扱説明書(ICOM IC-705 サポート・ダウンロード )  
-https://www.icom.co.jp/lineup/products/IC-705/?open=4#detail_content  
+[External Keypad for ICOM IC-705](https://youtu.be/w8RicOxXwO8?si=ilTV2mg2VO1FOSIj)
 
 ## 特長
 以下の「外部キーパッド」の機能を利用できます。
 
-- IC-705のKEYジャックに接続し、KEYERメモリー(M1～M8)、SSB/AM/FM/DVのVOICE TXメモリー(T1～T8)、RTTYメモリー(RT1～RT8)の送出を制御できます。
-- KEYER画面、VOICE TX画面、RTTY DECODE画面を表示しておかなくても、KEYERメモリー、VOICE TXメモリー、RTTYメモリーの送出を制御できます。
+- KEYERメモリー(M1～M8)、SSB/AM/FM/DVのVOICE TXメモリー(T1～T8)、RTTYメモリー(RT1～RT8)の送出を制御できます。
+- IC-705のLCDにKEYERメモリー、VOICE TXメモリー、RTTYメモリーのボタンを表示していなくてもメモリーを送出できます。
 
 以下の追加機能があります。
 
-- 電鍵(ストレートキー)、パドル、外部エレクトロニックキーヤーを接続するためのジャック(Φ3.5mm)があり、パドル等を並列接続できます。
-- パドルの左右に相当する2個の「パドルボタン」を追加しています。パドルの代替として使えるかもしれません。
-- パドルを左手で操作する場合を想定し、パドルの左右を入れ替えるスライドスイッチがあります。"External Keypad for IC-705"の「パドルボタン」の左右も同時に入れ替わります。
-- ボタンスイッチには、作動力45-50g・リニア・静音タイプのCherry MX互換キースイッチを採用しています。
-- キースイッチの取付けにはソケットを使用しており、お好みのタイプのCherry MX互換キースイッチに交換できます。
-- キートップも、お好みのものに交換できます。
+- パドル等を接続するためのジャック(Φ3.5mm)があり、電鍵(ストレートキー)、パドル、または外部エレクトロニックキーヤーを並列接続できます。
+- パドルに相当する2個のボタンを追加しています。パドルの代替として使えるかもしれません。
+- パドルの左右を入れ替えるスライドスイッチがあります。パドル相当のボタンの左右も入れ替わります。
+- ボタンスイッチには、作動力45-50g・リニア・静音タイプのキースイッチを使用しています。
+- キースイッチはソケットで取付けてあり、お好みのタイプのCherry MX互換キースイッチに交換できます。
+- キートップも、お好みで交換できます。
 
 ## 使い方
 
 - IC-705のKEYジャックと"External Keypad for IC-705"の"RIG"ジャックを付属のミニステレオケーブルで接続します。
-- 電鍵(ストレートキー)、パドル、外部エレクトロニックキーヤーを使用する場合は、"External Keypad for IC-705"の"KEY"ジャックに接続します。
-- パドルの左右を逆にするには、"External Keypad for IC-705"のスライドスイッチを"REVS(Reverse)"に設定します。パドルの左右を変えない場合は"NORM(Normal)"に設定します。
+- パドル等は、"External Keypad for IC-705"の"KEY"ジャックに接続します。
+- "External Keypad for IC-705"のスライドスイッチが"NORM(Normal)"の場合、パドルの左側が短点、右側が長点です。パドルの左右を逆にするには、"REVS(Reverse)"に設定します。
 - IC-705本体で、外部キーパッドの設定をONにします。  
 (MENU >> SET > 外部端子 > 外部キーパッド > VOICE / KEYER / RTTY)
-- KEYERメモリー(M1～M8)、SSB/AM/FM/DVのVOICE TXメモリー(T1～T8)、RTTYメモリー(RT1～RT8)に対し、"External Keypad for IC-705"の上段4個のボタンがM1～M4、T1～T4、RT1～RT4に対応し、中段4個のボタンがM5～M8、T5～T8、RT5～RT8に対応します。下段の2個のボタンはパドルの短点・長点に対応します。スライドスイッチが”NORM"の場合、左側が短点、右側が長点です。
+- "External Keypad for IC-705"の上段・中段の8個のボタンは、KEYERメモリー(M1～M8)、SSB/AM/FM/DVのVOICE TXメモリー(T1～T8)、RTTYメモリー(RT1～RT8)に対応します。下段の2個のボタンはパドルの短点・長点に対応します。
 - ボタン操作や、KEYERメモリー、VOICE TXメモリー、RTTYメモリーの設定方法については、IC-705の取扱説明書を参照してください。
 
 <img alt="keypad1" src="image/keypad1.JPEG" width="400px">
@@ -45,7 +43,7 @@ https://www.icom.co.jp/lineup/products/IC-705/?open=4#detail_content
 ## お願い
 
 - 構造上、側面のカバーがありません。液体・塵埃などの侵入にご注意ください。
-- キースイッチは、天板とソケットにはめ込みで固定しています。かかる力によっては外れることがあります。
+- キースイッチは、はめ込みで固定しています。かかる力によっては外れることがあります。外れた場合には慎重に取付けてください。
 - 部品のメーカや品種を類似品に切り替える場合があります。キートップの色味、キースイッチの感触などが製造時期等により変わることが考えられます。
 
 <img alt="keypad2" src="image/keypad2.JPEG" width="300px">
@@ -81,12 +79,10 @@ KiCad 8.0.2でレイアウト設計し、プラグイン"Fabrication Toolkit"で
 
 - シリコンゴム  4個  
 机等の傷防止のため"External Keypad for IC-705"の底面に貼り付けてください。  
-秋月電子通商「接着シール付き透明ゴムクッション」  
-https://akizukidenshi.com/catalog/g/g110080/
+[秋月電子通商「接着シール付き透明ゴムクッション」](https://akizukidenshi.com/catalog/g/g110080/)  
 
 - ミニステレオケーブル  1本  
 IC-705と"External Keypad for IC-705"の接続に使用ください。  
-秋月電子通商「3.5mmステレオミニプラグオーディオケーブル 金メッキ スリム 0.5m(50cm)」  
-https://akizukidenshi.com/catalog/g/g113082/
+[秋月電子通商「3.5mmステレオミニプラグオーディオケーブル 金メッキ スリム 0.5m(50cm)」](https://akizukidenshi.com/catalog/g/g113082/)
 
 以上
