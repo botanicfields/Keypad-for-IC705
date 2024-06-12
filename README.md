@@ -7,6 +7,9 @@ External Keypad for ICOM IC-705
 
 ICOM社製アマチュア無線用トランシーバーIC-705に接続して使用する外部キーパッド"External Keypad for IC-705"を製作しました。IC-705の取扱説明書「19.コネクター情報 ■KEYジャック」において、回路図とともに「お客様でご用意ください」と説明されている「外部キーパッド」に基づいています。
 
+- 委託販売  
+[IC-705用外部キーパッド](https://www.switch-science.com/products/9715)
+
 - IC-705の取扱説明書   
 [ICOM IC-705 サポート・ダウンロード](https://www.icom.co.jp/lineup/products/IC-705/?open=4#detail_content)  
 
